@@ -99,10 +99,6 @@ Scatter plot illustrating the relationship between LOS and cost, with bubble siz
 ## 📁 Repository Structure
 
 healthcare-readmissions-powerbi/
-|
-|-- data/
-
-healthcare-readmissions-powerbi/
 │
 ├── data/
 │ └── hospital_patient_data.csv
