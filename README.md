@@ -124,6 +124,9 @@ Healthcare & Supply Chain Analytics
 (Portfolio Project)
 
 ---
+## License
+This project is licensed under the MIT License.
+---
 
 ## 📬 Feedback
 Feedback and suggestions are welcome. This project is part of a professional analytics portfolio.
