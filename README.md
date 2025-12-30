@@ -7,6 +7,14 @@ The objective is to support **hospital leadership and operations teams** with ac
 The final output is a **one-page executive Power BI dashboard** designed for quick decision-making.
 
 ---
+## 🔧 How to View the Dashboard
+
+1. Download the Power BI file (`.pbix`) from this repository.
+2. Open the file using **Power BI Desktop**.
+3. If prompted, connect to the provided dataset or refresh the data connection.
+4. Use slicers and filters to explore readmission trends and performance metrics.
+
+---
 
 ## 🎯 Business Objectives
 - Identify departments with **high readmission risk**
